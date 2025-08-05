@@ -81,9 +81,6 @@
     <string name="info_labels">Qué:\\nSolicitud:\\nIdioma del contenido:\\nPaís del contenido:\\nIdioma de la aplicación:\\nServicio:\\nMarca de tiempo:\\nPaquete:\\nVersión:\\nVersión del SO:</string>
     <string name="black_theme_title">Negro</string>
     <string name="all">Todo</string>
-    <string name="short_thousand">k</string>
-    <string name="short_million">M</string>
-    <string name="short_billion">MM</string>
     <string name="open_in_popup_mode">Abrir en modo emergente</string>
     <string name="msg_popup_permission">Se necesita este permiso
 \npara abrir en modo emergente</string>
@@ -427,7 +424,6 @@
         <item quantity="many">%s oyentes</item>
         <item quantity="other">%s oyentes</item>
     </plurals>
-    <string name="localization_changes_requires_app_restart">El idioma cambiará después del reinicio de la aplicación</string>
     <string name="seek_duration_title">Duración de búsqueda al avanzar y/o retroceder</string>
     <string name="peertube_instance_url_title">Instancias de PeerTube</string>
     <string name="peertube_instance_url_summary">Selecciona tus instancias favoritas de PeerTube</string>

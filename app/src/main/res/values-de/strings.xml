@@ -69,9 +69,6 @@
     <string name="error_report_title">Fehlerbericht</string>
     <string name="delete">Löschen</string>
     <string name="checksum">Prüfsumme</string>
-    <string name="short_thousand">Tsd.</string>
-    <string name="short_million">Mio.</string>
-    <string name="short_billion">Mrd.</string>
     <string name="msg_name">Dateiname</string>
     <string name="msg_error">Fehler</string>
     <string name="msg_wait">Bitte warten …</string>
@@ -432,7 +429,6 @@
         <item quantity="one">%s Zuhörer</item>
         <item quantity="other">%s Zuhörer</item>
     </plurals>
-    <string name="localization_changes_requires_app_restart">Die Sprache ändert sich, sobald die App neu gestartet wird</string>
     <string name="peertube_instance_url_title">PeerTube-Instanzen</string>
     <string name="peertube_instance_url_help">Finde auf %s die Instanzen, die dir gefallen</string>
     <string name="peertube_instance_add_title">Instanz hinzufügen</string>
@@ -830,4 +826,9 @@
     <string name="select_a_feed_group">Eine Feed-Gruppe auswählen</string>
     <string name="feed_group_page_summary">Kanalgruppen-Seite</string>
     <string name="no_feed_group_created_yet">Es wurde noch keine Feed-Gruppe erstellt</string>
+    <string name="search_with_service_name">Suche %1$s</string>
+    <string name="search_with_service_name_and_filter">Suche %1$s (%2$s)</string>
+    <string name="channel_tab_likes">Gefällt mir</string>
+    <string name="migration_info_6_7_title">SoundCloud-Top-50-Seite entfernt</string>
+    <string name="migration_info_6_7_message">SoundCloud hat die ursprünglichen Top-50-Charts abgeschafft. Der entsprechende Tab wurde von deiner Hauptseite entfernt.</string>
 </resources>

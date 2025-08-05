@@ -112,9 +112,6 @@
     <string name="video">Video</string>
     <string name="audio">Ljud</string>
     <string name="retry">Försök igen</string>
-    <string name="short_thousand">t</string>
-    <string name="short_million">mn</string>
-    <string name="short_billion">md</string>
     <string name="no_subscribers">Inga prenumeranter</string>
     <plurals name="subscribers">
         <item quantity="one">%s prenumerant</item>
@@ -436,7 +433,6 @@
     <string name="local">Lokala</string>
     <string name="done">Klar</string>
     <string name="youtube_restricted_mode_enabled_title">Slå på YouTubes \"Begränsat läge\"</string>
-    <string name="localization_changes_requires_app_restart">Språket ändras när appen startas om</string>
     <string name="error_unable_to_load_comments">Det gick inte att läsa in kommentarerna</string>
     <string name="feed_use_dedicated_fetch_method_disable_button">Inaktivera snabbläge</string>
     <string name="feed_use_dedicated_fetch_method_enable_button">Aktivera snabbläge</string>

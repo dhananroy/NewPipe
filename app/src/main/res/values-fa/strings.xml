@@ -148,9 +148,6 @@
     <string name="error_occurred_detail">خطایی رخ داد: %1$s</string>
     <string name="no_streams_available_download">جریانی برای بارگیری در دسترس نیست</string>
     <string name="search_no_results">بدون نتیجه</string>
-    <string name="short_thousand">K</string>
-    <string name="short_million">M</string>
-    <string name="short_billion">B</string>
     <plurals name="subscribers">
         <item quantity="one">%s مشترک</item>
         <item quantity="other">%s مشترک</item>
@@ -469,7 +466,6 @@
     <string name="most_liked">مورد پسندترین‌ها</string>
     <string name="recently_added">اخیرا اضافه شده</string>
     <string name="local">محلی</string>
-    <string name="localization_changes_requires_app_restart">با آغاز دوبارهٔ کاره، زبان تغییر خواهد کرد</string>
     <string name="default_kiosk_page_summary">کیوسک پیش‌فرض</string>
     <string name="done">انجام شد</string>
     <string name="subtitle_activity_recaptcha">وقتی انجام شد، «Done» یا «انجام شد» را بفشارید</string>

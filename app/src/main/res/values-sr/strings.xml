@@ -83,9 +83,6 @@
     <string name="recaptcha_request_toast">Решите „reCAPTCHA“ задатак</string>
     <string name="black_theme_title">Црна</string>
     <string name="all">Све</string>
-    <string name="short_thousand">хиљ.</string>
-    <string name="short_million">мил.</string>
-    <string name="short_billion">млрд.</string>
     <string name="open_in_popup_mode">Отвори у искачућем облику</string>
     <string name="msg_popup_permission">Ова дозвола је потребна за
 \nотварање у искачућем режиму</string>
@@ -368,7 +365,6 @@
     <string name="most_liked">Највише свиђања</string>
     <string name="recently_added">Недавно додато</string>
     <string name="local">Локално</string>
-    <string name="localization_changes_requires_app_restart">Језик ће бити промењен након рестартовања апликације</string>
     <string name="error_unable_to_load_comments">Није могуће учитати коментаре</string>
     <string name="import_settings">Желите ли да увезете и подешавања\?</string>
     <string name="override_current_data">Ово ће заменити ваше тренутно подешавање.</string>

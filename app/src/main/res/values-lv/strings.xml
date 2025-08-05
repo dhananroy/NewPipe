@@ -136,9 +136,6 @@
     </plurals>
     <string name="no_subscribers">Nav abonamentu</string>
     <string name="drawer_header_description">Izvēlaties pakalpojumu, šobrīd izvēlēts:</string>
-    <string name="short_billion">B</string>
-    <string name="short_million">M</string>
-    <string name="short_thousand">k</string>
     <string name="retry">Atkārtot</string>
     <string name="audio">Audio</string>
     <string name="video">Video</string>
@@ -272,7 +269,6 @@
     <string name="peertube_instance_url_help">Atrodiet instances, kas jums patīk ar %s</string>
     <string name="peertube_instance_url_summary">Izvēlaties jūsu mīļākās PeerTube instances</string>
     <string name="peertube_instance_url_title">PeerTube serveri (instances)</string>
-    <string name="localization_changes_requires_app_restart">Valoda nomainīsies, kad aplikāciju restartēs</string>
     <string name="no_app_to_open_intent">Neviena lietotne jūsu ierīcē nevar šo atvērt</string>
     <string name="chapters">Nodaļas</string>
     <string name="recent">Jaunākie</string>

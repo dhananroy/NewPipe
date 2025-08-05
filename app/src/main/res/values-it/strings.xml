@@ -82,9 +82,6 @@
     <string name="title_activity_recaptcha">Risoluzione reCAPTCHA</string>
     <string name="black_theme_title">Nero</string>
     <string name="all">Tutto</string>
-    <string name="short_thousand">k</string>
-    <string name="short_million">M</string>
-    <string name="short_billion">Mrd</string>
     <string name="recaptcha_request_toast">È richiesta la risoluzione del reCAPTCHA</string>
     <string name="open_in_popup_mode">Apri in modalità popup</string>
     <string name="popup_playing_toast">Riproduzione in modalità popup</string>
@@ -427,7 +424,6 @@
         <item quantity="many">%s ascoltatori</item>
         <item quantity="other">%s ascoltatori</item>
     </plurals>
-    <string name="localization_changes_requires_app_restart">La lingua verrà cambiata al riavvio dell\'applicazione</string>
     <string name="default_kiosk_page_summary">Contenuti in evidenza predefiniti</string>
     <string name="seek_duration_title">Durata avanzamento e riavvolgimento rapidi</string>
     <string name="peertube_instance_url_title">Istanze PeerTube</string>
@@ -847,4 +843,6 @@
     <string name="search_with_service_name_and_filter">Cerca %1$s (%2$s)</string>
     <string name="search_with_service_name">Cerca su %1$s</string>
     <string name="channel_tab_likes">Mi piace</string>
+    <string name="migration_info_6_7_title">Pagina Top 50 di SoundCloud rimossa</string>
+    <string name="migration_info_6_7_message">SoundCloud ha dismesso i grafici Top 50 originali. La scheda relativa è stata rimossa dalla pagina principale.</string>
 </resources>

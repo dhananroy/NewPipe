@@ -231,9 +231,6 @@
     <string name="player_recoverable_failure">S\'està recuperant el reproductor després de l\'error</string>
     <string name="sorry_string">Bé, és lamentable.</string>
     <string name="detail_drag_description">Arrossegueu per reordenar la llista</string>
-    <string name="short_thousand">mil</string>
-    <string name="short_million">milions</string>
-    <string name="short_billion">mil milions</string>
     <string name="start">Inicia</string>
     <string name="msg_running_detail">Feu un toc aquí per a més detalls</string>
     <string name="no_available_dir">Defineix una carpeta de baixades més endavant als paràmetres</string>
@@ -419,7 +416,6 @@
         <item quantity="many">%s escoltants</item>
         <item quantity="other">%s escoltants</item>
     </plurals>
-    <string name="localization_changes_requires_app_restart">Es canviarà l\'idioma en reiniciar l\'aplicació</string>
     <string name="default_kiosk_page_summary">Tendències</string>
     <string name="show_original_time_ago_title">Ensenya el temps passat original sobre els \"items\"</string>
     <string name="playlist_no_uploader">Auto-generat (no es troba cap uploader)</string>
