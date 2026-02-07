@@ -5,7 +5,7 @@
 
 [versions]
 acra = "5.13.1"
-agp = "9.0.0"
+agp = "8.13.2"
 appcompat = "1.7.1"
 assertj = "3.27.6"
 autoservice-google = "1.1.1"
@@ -59,7 +59,7 @@ teamnewpipe-nanojson = "e9d656ddb49a412a5a0a5d5ef20ca7ef09549996"
 # the corresponding commit hash, since JitPack sometimes deletes artifacts.
 # If there’s already a git hash, just add more of it to the end (or remove a letter)
 # to cause jitpack to regenerate the artifact.
-teamnewpipe-newpipe-extractor = "v0.25.1"
+teamnewpipe-newpipe-extractor = "v0.25.2"
 viewpager2 = "1.1.0"
 webkit = "1.14.0" # Newer versions require minSdk >= 23
 work = "2.10.5"  # Newer versions require minSdk >= 23
@@ -132,7 +132,8 @@ zacsweers-autoservice-compiler = { module = "dev.zacsweers.autoservice:auto-serv
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-android-legacy-kapt = { id = "com.android.legacy-kapt", version.ref = "agp" } # Needed for statesaver
 google-ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+jetbrains-kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" } # Needed for statesaver
 jetbrains-kotlin-parcelize = { id = "org.jetbrains.kotlin.plugin.parcelize", version.ref = "kotlin" }
 sonarqube = { id = "org.sonarqube", version.ref = "sonarqube" }
